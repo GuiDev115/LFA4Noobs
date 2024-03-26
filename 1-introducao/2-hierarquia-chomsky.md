@@ -32,3 +32,6 @@ Vamos utilizar a hierarquia de Chomsky como guia de nosso estudo de LFA,e chama-
 
 
 ![](image/hierarquia-chomsky%201.png)
+
+
+Ir para: [1.3 Conceitos Básicos](./3-conceitos-basicos.md)

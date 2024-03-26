@@ -19,4 +19,4 @@ Base teórica de para compreensão de:
 - Análise léxica e sintática
 - Processamento de linguagem natural
 
-Ir para: [2. Hierarquia de Chomsky](./2-hierarquia-chomsky.md)
+Ir para: [1.2 Hierarquia de Chomsky](./2-hierarquia-chomsky.md)
