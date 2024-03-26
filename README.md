@@ -14,10 +14,14 @@ Repositório dedicado a introduzir aos novos desenvolvedores, como é a linguage
 
 ## Sumário
 
-1. [Introdução](1-introducao)
-	- [História](1-introducao/1-introducao-lfa.md)
+1. [início](1-introducao)
+	- [Introdução](1-introducao/1-introducao-lfa.md)
+	- [Hierarquia de Chomsky](1-introducao/2-hierarquia-chomsky.md)
+	- [Conceitos Básicos](1-introducao/3-conceitos-basicos.md)
+1. Linguagens Regulares (LR)
+	- 
 
-5. [Referencias bibliográficas](5-Referencias-bibliograficas/1-Referencias-bibliograficas.md)
+2. [Referencias bibliográficas](5-Referencias-bibliograficas/1-Referencias-bibliograficas.md)
 
 [+ Conteúdos gratuitos para aprender](https://github.com/he4rt/4noobs)
 
