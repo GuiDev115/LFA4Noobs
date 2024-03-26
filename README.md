@@ -18,7 +18,7 @@ Repositório dedicado a introduzir aos novos desenvolvedores, como é a linguage
 	- [Introdução](1-introducao/1-introducao-lfa.md)
 	- [Hierarquia de Chomsky](1-introducao/2-hierarquia-chomsky.md)
 	- [Conceitos Básicos](1-introducao/3-conceitos-basicos.md)
-1. Linguagens Regulares (LR)
+2. [Linguagens Regulares](2-linguagem-regulares)
 	- [Expressões Regulares](2-linguagem-regulares/1-expressoes-regulares.md)
 
 2. [Referencias bibliográficas](5-Referencias-bibliograficas/1-Referencias-bibliograficas.md)
