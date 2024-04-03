@@ -8,9 +8,9 @@ Aqui teremos um pouco de Matemática Discreta, e o uso de conceito sobre conjun�
 **Σ*:** é o conjunto de todas as palavras geradas por Σ 
 **A " * " (estrela):** operador de Kleene
 
-## Se Σ = {a,b, c}, 
+### Se Σ = {a,b, c}, 
 
-## então Σ* inclui: 
+### então Σ* inclui: 
 	- Tamanho zero: λ 
 	- Tamanho um: a b c 
 	- Tamanho dois: aa ab ac ba bb bc ca cb cc 
@@ -26,10 +26,12 @@ Exemplo: se Σ = {Maria, fala,alto}, quais são as palavras válidas?
 e.g: `Maria Fala Alto`
 `Maria Alto Fala`
 `Alto Fala Maria`
-# Recomendável Aprender:
+# Recomendável Saber:
 
-Aqui iremos aprofundar `BASTANTE` na matemática discreta, aproveito falar que a partir daqui, o requisito é sim saber o básico sobre, caso contrario: pule essa etapa.
-## Concatenação:
+Aqui iremos aprofundar `BASTANTE` na matemática discreta, aproveito falar que a partir daqui, o requisito é sim saber o básico sobre, caso contrario: *pule essa etapa.*
+
+Ir para: [2.1 Expressões Regulares](../2-linguagem-regulares/1-expressoes-regulares.md)
+### Concatenação:
 Seja u, v ∈ Σ* . A concatenação de u e v, escrita uv, é uma operação binária em Σ* definida assim: 
 
 base: se tam(v) = 0, então v = λ e uv = u 
@@ -46,17 +48,17 @@ Prova: (por contra-exemplo)
 
 Concatenação é `associativa`: (uv)w = u(vw)
 
-## Prova de Associatividade 
+### Prova de Associatividade 
 (por indução no comprimento da palavra w) 
 
 Teorema: Seja u, v, w ∈ Σ* , então (uv)w = u(vw) 
 
-### Base: se tam(w) = 0, então w = λ 
+#### Base: se tam(w) = 0, então w = λ 
 - (uv)w = (uv)λ = uv `e` u(vw) = u(vλ) = u(v) = uv 
 - Logo, `(uv)w = u(vw)`
-### Hipótese: (uv)w = u(vw) ∀w,tam(w) ≤ k 
+#### Hipótese: (uv)w = u(vw) ∀w,tam(w) ≤ k 
 
-### Passo indutivo: provar (uv)w = u(vw) ∀w,tam(w) = k + 1 
+#### Passo indutivo: provar (uv)w = u(vw) ∀w,tam(w) = k + 1 
 
 - Seja w = xa, tam(x) = k, a ∈ Σ 
 
