@@ -4,7 +4,7 @@
 
 - L2 = `(a U b)* (aa U bb) (a U b)*`
 
-- L3 = `(a U b)* (aa (a U b)* bb) (a U b)*
+- L3 = `(a U b)* (aa (a U b)* bb) (a U b)*`
                 `(bb (a U b)* aa)`
 
 - L4 = `a* (ba* ba*)*`
