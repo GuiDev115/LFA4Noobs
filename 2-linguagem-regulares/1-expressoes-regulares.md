@@ -14,7 +14,8 @@ Uma linguagem que aceita palavras com pelo menos uma ocorrência de bb:
 Explicação: 
 - **(a U b)** pode ser, "a" ou "b";
 - O " * " é um loop aceitando nada
-- O " + " é um loop que deve ter ao menos um cardinal
+- O " + " é um loop que deve ter ao menos um cardinal:
+	- PS: x⁺  denota xx*
 
 Com isso, podemos seguir e concluir que *todas essas são aceitas*:
 
@@ -29,3 +30,5 @@ Contudo se não houver palavra sem bb no meio como:
 	aaaaaaa
 
 *Não são aceitas*, pois é **Obrigatório** ter ao menos dois b's
+
+Ir para: [2.2 Exercicios](../2-linguagem-regulares/2-exercicios-ER.md)
