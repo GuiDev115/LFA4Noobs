@@ -11,4 +11,4 @@ Considerando Σ = {a,b, c} e L = c ∗ (b ∪ (ac* ))* , verifique se as seguint
 - acabacc 
 - bbaaacc
 
-Ir para: [2.2 Gabarito](../2-linguagem-regulares/2-gabarito-ER.md)
+Ir para: [2.2 Gabarito](3-gabarito-ER.md)

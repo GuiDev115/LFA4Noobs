@@ -20,6 +20,8 @@ Repositório dedicado a introduzir aos novos desenvolvedores, como é a linguage
 	- [Conceitos Básicos](1-introducao/3-conceitos-basicos.md)
 2. [Linguagens Regulares](2-linguagem-regulares)
 	- [Expressões Regulares](2-linguagem-regulares/1-expressoes-regulares.md)
+	- [Exercícios de ER](2-linguagem-regulares/2-exercicios-ER.md)
+	- [Gabarito de ER](2-linguagem-regulares/3-gabarito-ER.md)
 
 2. [Referencias bibliográficas](5-Referencias-bibliograficas/1-Referencias-bibliograficas.md)
 
@@ -27,6 +29,6 @@ Repositório dedicado a introduzir aos novos desenvolvedores, como é a linguage
 
 ## Autores
 
-- **Guilherme Fabrício (@guidev115)** - _Back-end Developer && He4rt Developers Member - [Twitter](https://twitter.com/guidev115)
+- **Guilherme Fabrício (@guidev115)** - Back-end Developer && He4rt Developers Member - [Twitter](https://twitter.com/guidev115) - [Instagram](https://www.instagram.com/guidev115/)
 
 <p align="center">Made with 💜</p>
