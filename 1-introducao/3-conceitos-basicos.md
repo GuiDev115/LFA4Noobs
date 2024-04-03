@@ -28,9 +28,7 @@ e.g: `Maria Fala Alto`
 `Alto Fala Maria`
 # Recomendável Saber:
 
-Aqui iremos aprofundar `BASTANTE` na matemática discreta, aproveito falar que a partir daqui, o requisito é sim saber o básico sobre, caso contrario: *pule essa etapa.*
-
-Ir para: [2.1 Expressões Regulares](../2-linguagem-regulares/1-expressoes-regulares.md)
+Aqui iremos aprofundar `BASTANTE` na matemática discreta, aproveito falar que a partir daqui, o requisito é sim saber o básico sobre, caso contrario: [**pule essa etapa.**](../2-linguagem-regulares/1-expressoes-regulares.md)
 ### Concatenação:
 Seja u, v ∈ Σ* . A concatenação de u e v, escrita uv, é uma operação binária em Σ* definida assim: 
 
