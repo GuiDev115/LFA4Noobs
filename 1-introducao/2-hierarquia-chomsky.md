@@ -6,7 +6,9 @@ Chomsky também é um ativista e reconhecido com sua posição política nos Est
 
 Ele que gerou a grande hierarquia de Chomsky, que iremos abordar logo abaixo, é famoso por pesquisar vários tipos de linguagens formais procurando entender se poderiam ser capazes de capturar as propriedades-chave das línguas humanas.
 
-![](image/chomsky.png)
+#### Avram Noam Chomsky :
+
+![Chomsky](image/chomsky.png)
 
 
 ### De fato a Hierarquia
