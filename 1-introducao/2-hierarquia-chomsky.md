@@ -1,4 +1,4 @@
-### Primeiramente quem é Chomsky ?
+# Primeiramente quem é Chomsky ?
 
 Avram Noam Chomsky (1927-presente): é um poeta, filósofo, linguista, professor do MIT, e crítico do capitalismo e da política externa americana
 
@@ -11,7 +11,7 @@ Ele que gerou a grande hierarquia de Chomsky, que iremos abordar logo abaixo, é
 ![Chomsky](image/chomsky.png)
 
 
-### De fato a Hierarquia
+# De fato a Hierarquia
 
 Vamos utilizar a hierarquia de Chomsky como guia de nosso estudo de LFA,e chama-se hierarquia pois se o conhecimento de um, a próxima etapa será dificilmente entendível e compreensível, e para a hierarquia funciona da seguinte maneira:
 
