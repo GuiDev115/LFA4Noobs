@@ -1,9 +1,9 @@
-Na Hierarquia de Chomsky, começaremos na base de sua pirâmide, a *Linguagem Regular*
+## Na Hierarquia de Chomsky, começaremos na base de sua pirâmide, a *Linguagem Regular*
 
 ![](images/start_lr.png)
 
 Vamos iniciar com as expressões regulares, regularmente chamado como RegEx
-#### Exemplo 1:
+### Exemplo 1:
 
 Onde (Σ = {a, b}) **Todas palavras tem apenas a e b no alfabeto**
 

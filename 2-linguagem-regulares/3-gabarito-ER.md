@@ -15,3 +15,5 @@
 
 - ACEITA
 - REJEITA
+
+Ir para: [2.4 Gabarito](4-automatos-deterministicos.md)
