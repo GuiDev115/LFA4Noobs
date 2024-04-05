@@ -22,9 +22,8 @@ Repositório dedicado a introduzir aos novos desenvolvedores, como é a linguage
 	- [Expressões Regulares](2-linguagem-regulares/1-expressoes-regulares.md)
 	- [Exercícios de ER](2-linguagem-regulares/2-exercicios-ER.md)
 	- [Gabarito de ER](2-linguagem-regulares/3-gabarito-ER.md)
-
-2. [Referencias bibliográficas](5-Referencias-bibliograficas/1-Referencias-bibliograficas.md)
-
+	- [AFD - Autômatos Finitos Determinísticos](4-automatos-deterministicos.md)
+	- [Exercícios de AFD](5-exercicios-afd.md)
 [+ Conteúdos gratuitos para aprender](https://github.com/he4rt/4noobs)
 
 ## Autores
