@@ -1,10 +1,8 @@
 # Primeiramente quem é Chomsky ?
 
-Avram Noam Chomsky (1927-presente): é um poeta, filósofo, linguista, professor do MIT, e crítico do capitalismo e da política externa americana
+Avram Noam Chomsky que gerou a grande hierarquia de Chomsky, que iremos abordar logo abaixo, é famoso por pesquisar vários tipos de linguagens formais procurando entender se poderiam ser capazes de capturar as propriedades-chave das línguas humanas. Foi um poeta, filósofo, linguista, professor do MIT, e crítico do capitalismo e da política externa americana
 
 Chomsky também é um ativista e reconhecido com sua posição política nos Estados Unidos, e grande figura no ensino no âmbito da linguística.
-
-Ele que gerou a grande hierarquia de Chomsky, que iremos abordar logo abaixo, é famoso por pesquisar vários tipos de linguagens formais procurando entender se poderiam ser capazes de capturar as propriedades-chave das línguas humanas.
 
 #### Avram Noam Chomsky :
 

@@ -2,11 +2,11 @@
 
 Aqui teremos um pouco de Matemática Discreta, e o uso de conceito sobre conjunções matemáticas:
 
-**Linguagem:** conjunto de palavras sobre um alfabeto 
-**Alfabeto (Σ):** conjunto de símbolos de uma linguagem 
-**Palavra (string):** sequência de símbolos de um alfabeto
-**Σ*:** é o conjunto de todas as palavras geradas por Σ 
-**A " * " (estrela):** operador de Kleene
+- **Linguagem:** conjunto de palavras sobre um alfabeto 
+- **Alfabeto (Σ):** conjunto de símbolos de uma linguagem 
+- **Palavra (string):** sequência de símbolos de um alfabeto
+- **Σ*:** é o conjunto de todas as palavras geradas por Σ 
+- **A " * " (estrela):** operador de Kleene
 
 ### Se Σ = {a,b, c}, 
 
