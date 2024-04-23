@@ -18,7 +18,7 @@ A linguagem aceita por um AFD M (Q, Σ, δD,q0, F) é o conjunto:  L(M) = {w ∈
 
 L = palavras sobre {a,b} que começam e terminam com a e possuem pelo menos um b
 
-![](./images/exemplo-01.png)
+![](./images/exemplo-AFD.JPG)
 
 
 Ir para: [2.5 Exercícios de AFD](5-exercicios-afd.md)

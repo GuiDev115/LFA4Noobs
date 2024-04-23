@@ -19,6 +19,12 @@ L = palavras sobre {a,b} que começam e terminam com a e possuem pelo menos um b
 
 ![](images/exemplo-afnd.jpg)
 
+### Conclusão sobre AFND e AFD:
+
+A mudança é que, o não determinismo é a forma de uma letra pode ir em vários estados, isto é, na AFD, se uma letra "a" vai para um estado X, é so nele que ele irá transicionar. na AFND, ele pode trancisionar em vários estados.
+
+Como no exemplo acima, no q2, temos que "a" vai para q2 e q3. Isso **NÃO PODE** ocorrer no AFD, já que é determinístico 
+
 ### Aceitação / Rejeição 
 
 Um AFND aceita a entrada quando 
@@ -40,6 +46,6 @@ Muitas vezes, é muito mais fácil desenvolver um AFND do que um AFD
 
 ### Um estratégia bem conhecida: 
 
-Construir o AFND Aplicar o algoritmo AFND → AFD 
+Construir o AFND Aplicar o algoritmo AFND → AFD *(veremos mais a frente)*
 
-Ir para: [2.8 Exercícios de AFND](8-exercicios-afnd.md)
+Ir para: [2.7.1 Exemplo de AFD e AFND](7.1-automatos-inderministicos-afnd.md)

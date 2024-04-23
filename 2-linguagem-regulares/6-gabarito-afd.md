@@ -13,7 +13,5 @@
 
 ![](images/gabarito-AFD-c.jpg)
 
-4. L = palavras sobre {a,b} que começam com a ou terminam com b 
 
-
-![](images/gabarito-AFD-d.jpg)
+![](images/exemplo-AFD.jpg)
