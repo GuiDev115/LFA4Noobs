@@ -28,7 +28,7 @@ Repositório dedicado a introduzir aos novos desenvolvedores, como é a linguage
 	- [Exemplo de AFD e AFND](07.1-automatos-inderministicos-afnd.md)
 	- [Exercícios de AFND](08-exercicios-afnd.md)
 	- [Autômatos Indeterminísticos com Transição λ](10-automatos-inderministicos-λ-afnd-λ.md)
-	- [Exericicios de AFND-λ](11-exercicio-afnd-λ.md)
+	- [Exericicios de AFND-λ1](11-exercicio-afnd-λ.md)
 
 [+ Conteúdos gratuitos para aprender](https://github.com/he4rt/4noobs)
 
