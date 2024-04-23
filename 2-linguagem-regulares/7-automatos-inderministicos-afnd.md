@@ -1,4 +1,3 @@
-
 # Autômatos Finitos Indeterminísticos
 
 ### Um AFND é uma quíntupla (Q, Σ, δND,q0, F):
