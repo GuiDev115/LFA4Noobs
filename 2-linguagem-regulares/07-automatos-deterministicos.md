@@ -21,6 +21,6 @@ L = palavras sobre {a,b} que começam e terminam com a e possuem pelo menos um b
 ![](./images/exemplo-AFD.jpg)
 
 
-Ir para: [2.5 Exercícios de AFD](05-exercicios-afd.md)
+Ir para: [2.8 Exercícios de AFD](08-exercicios-afd.md)
 
-Ir para: [2.7 Autômatos Indeterminísticos](07-automatos-inderministicos-afnd.md)
+Ir para: [2.10 Autômatos Indeterminísticos](10-automatos-inderministicos-afnd.md)

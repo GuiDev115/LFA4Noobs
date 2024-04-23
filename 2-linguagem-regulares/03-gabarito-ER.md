@@ -16,4 +16,4 @@
 - ACEITA
 - REJEITA
 
-Ir para: [2.4 Autômatos Determinísticos](04-automatos-deterministicos.md)
+Ir para: [2.4 Gramática Regular](04-gramatica-regular.md)

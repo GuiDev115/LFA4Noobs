@@ -1,4 +1,4 @@
-Considerando Σ = {a,b}, crie expressões regulares para as seguintes linguagens: 
+1. Considerando Σ = {a,b}, crie expressões regulares para as seguintes linguagens: 
 
 - L1 = {bawab | w ∈ {a,b}* } 
 - L2 = palavras contendo aa ou bb 
@@ -6,7 +6,7 @@ Considerando Σ = {a,b}, crie expressões regulares para as seguintes linguagens
 - L4 = palavras com número par de b 
 - L5 = palavras que não contém aa
 
-Considerando Σ = {a,b, c} e L = c ∗ (b ∪ (ac* ))* , verifique se as seguintes palavras estão em L: 
+2. Considerando Σ = {a,b, c} e L = c ∗ (b ∪ (ac* ))* , verifique se as seguintes palavras estão em L: 
 
 - acabacc 
 - bbaaacc

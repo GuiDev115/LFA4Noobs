@@ -14,4 +14,4 @@
 ![](images/gabarito-AFD-c.jpg)
 
 
-Ir para: [2.4 Autômatos Indeterminísticos](07-automatos-inderministicos-afnd.md)
+Ir para: [2.10 Autômatos Indeterminísticos](10-automatos-inderministicos-afnd.md)
