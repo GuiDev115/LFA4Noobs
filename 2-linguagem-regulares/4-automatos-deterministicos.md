@@ -22,3 +22,4 @@ L = palavras sobre {a,b} que começam e terminam com a e possuem pelo menos um b
 
 
 Ir para: [2.5 Exercícios de AFD](5-exercicios-afd.md)
+Ir para: [2.7 Autômatos Indeterminísticos](7-automatos-inderministicos-afnd.md)
