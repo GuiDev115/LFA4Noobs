@@ -48,4 +48,4 @@ Muitas vezes, é muito mais fácil desenvolver um AFND do que um AFD
 
 Construir o AFND Aplicar o algoritmo AFND → AFD *(veremos mais a frente)*
 
-Ir para: [2.7.1 Exemplo de AFD e AFND](7.1-automatos-inderministicos-afnd.md)
+Ir para: [2.7.1 Exemplo de AFD e AFND](07.1-automatos-inderministicos-afnd.md)

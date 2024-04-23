@@ -16,3 +16,6 @@ Para todo AFND-λ, existe um AFND e um AFD equivalentes
 L = {a k | k é múltiplo de 2 ou 3}
 
 ![](images/nurmeo-par-3-de-a.jpg)
+
+
+Ir para: [2.11 Exericicios de AFND-λ](11-exercicio-afnd-λ.md)

@@ -31,4 +31,5 @@ Contudo se não houver palavra sem bb no meio como:
 
 *Não são aceitas*, pois é **Obrigatório** ter ao menos dois b's
 
-Ir para: [2.2 Exercicios](../2-linguagem-regulares/2-exercicios-ER.md)
+Ir para: [2.2 Exercicios](02-exercicios-ER.md)
+Ir para: [2.4 Autômatos Determinísticos](04-automatos-deterministicos.md)

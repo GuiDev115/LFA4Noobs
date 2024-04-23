@@ -13,5 +13,5 @@ L3 = palavras sobre {a,b} que terminam com aaa
 
 ![](images/gabarito-AFND-c.jpg)
 
-
+Ir para: [2.10 Autômatos Indeterminísticos com Transição λ](10-automatos-inderministicos-λ-afnd-λ.md)
 

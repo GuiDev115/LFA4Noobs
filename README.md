@@ -19,11 +19,11 @@ Repositório dedicado a introduzir aos novos desenvolvedores, como é a linguage
 	- [Hierarquia de Chomsky](1-introducao/2-hierarquia-chomsky.md)
 	- [Conceitos Básicos](1-introducao/3-conceitos-basicos.md)
 2. [Linguagens Regulares](2-linguagem-regulares)
-	- [Expressões Regulares](2-linguagem-regulares/1-expressoes-regulares.md)
-	- [Exercícios de ER](2-linguagem-regulares/2-exercicios-ER.md)
-	- [Gabarito de ER](2-linguagem-regulares/3-gabarito-ER.md)
-	- [AFD - Autômatos Finitos Determinísticos](2-linguagem-regulares/4-automatos-deterministicos.md)
-	- [Exercícios de AFD](2-linguagem-regulares/5-exercicios-afd.md)
+	- [Expressões Regulares](2-linguagem-regulares/01-expressoes-regulares.md)
+	- [Exercícios de ER](2-linguagem-regulares/02-exercicios-ER.md)
+	- [Gabarito de ER](2-linguagem-regulares/03-gabarito-ER.md)
+	- [AFD - Autômatos Finitos Determinísticos](2-linguagem-regulares/04-automatos-deterministicos.md)
+	- [Exercícios de AFD](2-linguagem-regulares/05-exercicios-afd.md)
 
 [+ Conteúdos gratuitos para aprender](https://github.com/he4rt/4noobs)
 
