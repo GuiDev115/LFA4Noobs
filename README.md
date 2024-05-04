@@ -1,6 +1,6 @@
 ![header](https://github.com/andreluispy/assembly4noobs/blob/main/header-4noobs.svg)
 
-# LFA4Noobs
+# LFA4Noobs - WIP
 
 ## Sobre o projeto
 
