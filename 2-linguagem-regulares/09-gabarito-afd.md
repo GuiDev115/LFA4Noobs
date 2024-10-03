@@ -1,12 +1,12 @@
 - 1. L = palavras sobre {a,b} que contém aa ou bb 
 
 
-![](images/gabarito-AFND-a.jpg)
+![](images/gabarito-AFD-a.jpg)
 
 - 2. L = palavras sobre {a,b} que contém aaa 
 
 
-![](images/gabarito-AFND-b.jpg)
+![](images/gabarito-AFD-b.jpg)
 
 - 3. L = palavras sobre {a,b} com número par de a e ímpar de b
 
