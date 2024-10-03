@@ -47,7 +47,7 @@ Repositório dedicado a introduzir aos novos desenvolvedores, como é a linguage
 	- [Transformação AFND-λ para AFD](2-linguagem-regulares/16-transformacao-afndλ-afd.md) - WIP
 
 
-3.  [Linguagens Sensíveis ao Contexto](3-linguagem-livre-contexto)
+3.  [Linguagens Livre de Contexto](3-linguagem-livre-contexto)
 	- WIP
 
 4.  [Linguagens Sensíveis ao Contexto](4-linguagem-sensiveis-contexto)
